@@ -1,3 +1,0 @@
-eval "$(conda shell.bash hook)" because conda init doesnt work
-its for each  shell session
-prerequisites: python, jupyter, pandas, pyarrow
